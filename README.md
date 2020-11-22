@@ -9,4 +9,4 @@
 
 
 ### Terminal support
-I using alacritty and it works well there
+I am using alacritty and it works well there
